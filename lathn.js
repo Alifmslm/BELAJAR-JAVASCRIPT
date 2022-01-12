@@ -5,7 +5,7 @@ let cek = "Status : "
 let b = "SMK "
 let c = "SMP "
 let a = "SD "
-let umur = 15;
+let umur = 16;
 let h ="SMK";
 
 
